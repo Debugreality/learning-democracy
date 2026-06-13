@@ -41,6 +41,8 @@ Key unresolved questions remain. These include legal feasibility, system securit
 7. Outcomes are reviewed after implementation.
 8. Retrospective votes update future representation.
 
+![System Overview](./img/overview-diagram.png)
+
 ---
 
 # 1. Introduction
@@ -302,6 +304,8 @@ The most recent twenty comparable decisions receive full weighting. The next fif
 
 Abstentions are treated as neutral for matching and do not contribute to agreement calculations. This avoids treating uncertainty, recusal, or deliberate neutrality as either agreement or disagreement.
 
+![Alignment Matching](./img/alignment-diagram.png)
+
 ## 6.4 Confidence-Adjusted Matching
 
 Raw agreement percentages can be misleading when very little data is available. A representative who matches a citizen on four out of four decisions should not automatically outrank a representative who matches on ninety out of one hundred decisions.
@@ -486,6 +490,8 @@ The democratic learning loop is:
 6. Improved future decisions.
 
 Over time, the system builds institutional memory. Citizens, representatives, and operational teams can see not only what was decided, but what was expected, what occurred, and how citizen judgment evolved.
+
+![Learning loop](./img/learing-flow.png)
 
 ---
 
